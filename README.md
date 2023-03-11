@@ -7,7 +7,6 @@
 # Termux Style
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
   <img src="https://img.shields.io/github/license/DOMINATOR-XD/termux-style?style=for-the-badge">
   <img src="https://img.shields.io/github/stars/DOMINATOR-XD/termux-style?style=for-the-badge">
   <img src="https://img.shields.io/github/forks/DOMINATOR-XD/termux-style?color=teal&style=for-the-badge">
