@@ -1,9 +1,9 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
-## Author  : Aditya Shakya
-## Twitter : @adi1090x
-## Github  : @adi1090x
-## Reddit  : @adi1090x
+## Author  : DOMINATOR-XD
+## Twitter : @DOMINATOR-XD
+## Github  : @DOMINATOR-XD
+## Reddit  : @DOMINATOR-XD
 
 ## termux-style uninstall script
 
@@ -26,7 +26,7 @@ banner () {
     ${BLUE}│${RED}░░█░░█▀▀░█▀▄░█░█░█░█░▄▀▄${ORANGE}░▄▄▄${RED}░${GREEN}▀▀█░░█░░░█░░█░░░█▀▀░░${BLUE}│
     ${BLUE}│${RED}░░▀░░▀▀▀░▀░▀░▀░▀░▀▀▀░▀░▀${ORANGE}░░░░░${GREEN}▀▀▀░░▀░░░▀░░▀▀▀░▀▀▀░░${BLUE}│
     ${BLUE}└──────────────────────────────────────────────────┘
-    ${BLUE}[${RED}*${BLUE}] ${ORANGE}By- Aditya Shakya ${RED}//${ORANGE} adi1090x"
+    ${BLUE}[${RED}*${BLUE}] ${ORANGE}By- DOMINATOR ${RED}//${ORANGE} DOMINATOR-XD"
 }
 
 ## Script Termination
