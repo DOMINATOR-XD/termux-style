@@ -1,9 +1,9 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
-## Author  : Aditya Shakya
-## Twitter : @adi1090x
-## Github  : @adi1090x
-## Reddit  : @adi1090x
+## Author  : DOMINATOR-XD
+## Twitter : @DOMINATOR-XD
+## Github  : @DOMINATOR-XD
+## Reddit  : @DOMINATOR-XD
 
 ## A simple script to change color-schemes & fonts of termux terminal emulator.
 
@@ -29,7 +29,7 @@ banner () {
     ${BLUE}│${RED}░░█░░█▀▀░█▀▄░█░█░█░█░▄▀▄${ORANGE}░▄▄▄${RED}░${GREEN}▀▀█░░█░░░█░░█░░░█▀▀░░${BLUE}│
     ${BLUE}│${RED}░░▀░░▀▀▀░▀░▀░▀░▀░▀▀▀░▀░▀${ORANGE}░░░░░${GREEN}▀▀▀░░▀░░░▀░░▀▀▀░▀▀▀░░${BLUE}│
     ${BLUE}└──────────────────────────────────────────────────┘
-    ${BLUE}[${RED}*${BLUE}] ${ORANGE}By- Aditya Shakya ${RED}//${ORANGE} adi1090x"
+    ${BLUE}[${RED}*${BLUE}] ${ORANGE}By- DOMINATOR-XD ${RED}//${ORANGE} DOMINATOR-XD"
 }
 
 ## Script Termination
